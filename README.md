@@ -23,7 +23,10 @@ Unity2021LTS向けにまとめた自家製フレームワークです。1週間�
 1. フレームワークを組み込みたいUnityプロジェクトを開きます
 1. WindowメニューからPackage Managerを開きます
 1. + をクリックして Add package from git URL... を選択します
-1. `https://github.com/am1tanaka/AM1BaseFrame.git` を入力して、Addをクリックします
+
+![Add package from git URL...](./Documents/Images/readme00.png)
+
+1. `` を入力して、Addをクリックします
 
 以上でインポートが始まります。
 
